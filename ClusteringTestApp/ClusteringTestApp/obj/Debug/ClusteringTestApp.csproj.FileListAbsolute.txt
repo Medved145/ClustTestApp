@@ -10,3 +10,9 @@ c:\users\александр\documents\visual studio 2013\Projects\ClusteringTest
 C:\Users\Александр\Documents\GitHub\ClustTestApp\ClusteringTestApp\ClusteringTestApp\bin\Debug\ClusteringTestApp.exe.config
 C:\Users\Александр\Documents\GitHub\ClustTestApp\ClusteringTestApp\ClusteringTestApp\obj\Debug\ClusteringTestApp.exe
 C:\Users\Александр\Documents\GitHub\ClustTestApp\ClusteringTestApp\ClusteringTestApp\obj\Debug\ClusteringTestApp.pdb
+C:\Users\Александр\Documents\GitHub\ClustTestApp\ClusteringTestApp\ClusteringTestApp\bin\Debug\ClusteringTestApp.exe
+C:\Users\Александр\Documents\GitHub\ClustTestApp\ClusteringTestApp\ClusteringTestApp\bin\Debug\ClusteringTestApp.pdb
+C:\Users\Александр\Documents\GitHub\ClustTestApp\ClusteringTestApp\ClusteringTestApp\obj\Debug\ClusteringTestApp.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Documents\GitHub\ClustTestApp\ClusteringTestApp\ClusteringTestApp\obj\Debug\ClusteringTestApp.Form1.resources
+C:\Users\Александр\Documents\GitHub\ClustTestApp\ClusteringTestApp\ClusteringTestApp\obj\Debug\ClusteringTestApp.Properties.Resources.resources
+C:\Users\Александр\Documents\GitHub\ClustTestApp\ClusteringTestApp\ClusteringTestApp\obj\Debug\ClusteringTestApp.csproj.GenerateResource.Cache
